@@ -1,0 +1,2 @@
+# scratchpad
+trying out ideas
